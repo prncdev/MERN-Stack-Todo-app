@@ -10,12 +10,12 @@
 
 # How to run it this?
 
-  First navigate to the project directories individually and run:
+  First navigate to the project's directories backend and frontend individually and run:
   `
     pnpm install 
   `
 
-# After installing all the dependencies run the command inside both of the directory.
+# After installing all the dependencies run the command inside both directories.
 
   `
     pnpm dev
